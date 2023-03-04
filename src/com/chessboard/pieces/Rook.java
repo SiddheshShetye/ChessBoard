@@ -2,8 +2,8 @@ package com.chessboard.pieces;
 
 public class Rook implements Piece {
     @Override
-    public String getType() {
-        return null;
+    public PieceType getType() {
+        return PieceType.ROOK;
     }
 
     @Override

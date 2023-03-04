@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d5cfd2-5997-4c60-a2d8-10b97c1af93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Rook.java" afterDir="false" />
+    <list default="true" id="c3d5cfd2-5997-4c60-a2d8-10b97c1af93d" name="Changes" comment="refactored package and added project skeleton">
+      <change afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/PieceFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChessBoard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChessBoard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chessboard/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chessboard/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677855091477</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactored package and added project skeleton">
+      <created>1677856760425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677856760426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactored package and added project skeleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored package and added project skeleton" />
   </component>
 </project>

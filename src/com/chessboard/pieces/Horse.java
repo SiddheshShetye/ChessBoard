@@ -2,8 +2,8 @@ package com.chessboard.pieces;
 
 public class Horse implements Piece {
     @Override
-    public String getType() {
-        return null;
+    public PieceType getType() {
+        return PieceType.HORSE;
     }
 
     @Override
